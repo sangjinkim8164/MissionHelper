@@ -1,0 +1,3 @@
+include 'app'
+include ':CardCarousel-master'
+project(':CardCarousel-master').projectDir=new File('/thejoen_dev/refApplications/CardCarousel-master')

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mission Helper</string>
+    <string name="ldi_mission_helper">LDI Mission Helper</string>
+    <string name="http_ldi_kr">http://ldi.kr/</string>
+    <string name="greeting">오늘도 믿음으로 사는 하루를 축복합니다</string>
+    <string name="dailyQt">큐티 \u0026 성경읽기</string>
+    <string name="recitation">이번 주 암송</string>
+    <string name="missionPaper">LDI 전도지</string>
+    <string name="showtitle"><![CDATA[큐티 & 성경 읽기]]></string>
+</resources>
